@@ -14,6 +14,7 @@
 
 <a href="https://github.com/Mausd34"><img src="https://img.shields.io/badge/GITHUB-Mausd34-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=111111"/></a>
 <a href="mailto:masudrana481531@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"/></a>
+<a href="https://www.linkedin.com/in/masud-rana-826bb7247/"><img src="https://img.shields.io/badge/LINKEDIN-MASUD%20RANA-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111"/></a>
 
 </div>
 
