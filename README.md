@@ -63,6 +63,16 @@ I build practical software and explore **AI/ML, Data Science, NLP, and LLM Secur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mausd34&layout=compact&hide_border=true" height="165" />
 </p>
 
+## 🐍 Contribution Journey
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mausd34/Masud34/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mausd34/Masud34/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Mausd34/Masud34/output/github-snake.svg">
+  </picture>
+</p>
+
 ## 🎯 Current Focus
 
 - Building production-quality **Python/Django** applications
@@ -70,6 +80,12 @@ I build practical software and explore **AI/ML, Data Science, NLP, and LLM Secur
 - Working toward my **first research paper**
 - Learning **LLM and AI Agent Security**
 - Contributing to **open source**
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mausd34&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile views" />
+</p>
 
 ## 📫 Connect
 
