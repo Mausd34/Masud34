@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="180" rx="24" fill="#0d1117"/>
+  <text x="450" y="58" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="5">MASUD RANA</text>
+  <text x="450" y="84" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">CONTRIBUTION JOURNEY</text>
+  <path d="M60 125 C180 90 250 155 370 120 S570 90 690 125 S800 145 840 115" fill="none" stroke="#30363d" stroke-width="3"/>
+  <g filter="url(#glow)">
+    <circle r="8" fill="url(#g)">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M60 125 C180 90 250 155 370 120 S570 90 690 125 S800 145 840 115"/>
+    </circle>
+    <circle r="5" fill="#fff" opacity=".9">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M45 125 C165 90 235 155 355 120 S555 90 675 125 S785 145 825 115"/>
+    </circle>
+  </g>
+  <g fill="#238636">
+    <rect x="90" y="112" width="8" height="8"/><rect x="120" y="132" width="8" height="8"/>
+    <rect x="150" y="102" width="8" height="8"/><rect x="180" y="122" width="8" height="8"/>
+    <rect x="710" y="112" width="8" height="8"/><rect x="740" y="132" width="8" height="8"/>
+    <rect x="770" y="102" width="8" height="8"/><rect x="800" y="122" width="8" height="8"/>
+  </g>
+</svg>
