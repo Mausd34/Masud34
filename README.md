@@ -54,6 +54,43 @@ status: "ONLINE"
 
 ---
 
+## ◈ QUICK ACCESS // PORTFOLIO
+
+<p align="center">
+
+<a href="https://github.com/Mausd34?tab=repositories">
+<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-OPEN-00ff9c?style=for-the-badge&labelColor=050505"/>
+</a>
+<a href="https://github.com/Mausd34?tab=projects">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00d9ff?style=for-the-badge&labelColor=050505"/>
+</a>
+<a href="https://github.com/Mausd34?tab=stars">
+<img src="https://img.shields.io/badge/STARRED-TECH-ff4fd8?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</p>
+
+### 📂 ALL PUBLIC BUILDS
+
+| Project | Focus |
+|:--|:--|
+| 🧠 [AI Resume Analyzer](https://github.com/Mausd34/ai-resume-analyzer) | AI / Resume Intelligence |
+| 🛡️ [Fraud Detection System](https://github.com/Mausd34/fraud-detection-system) | Machine Learning |
+| 🤖 [AI Customer Support](https://github.com/Mausd34/ai-customer-support) | AI Application |
+| 🏢 [Property & BPO Management](https://github.com/Mausd34/property-bpo-management) | Django / Business Workflow |
+| 🌐 [Social Safety BD](https://github.com/Mausd34/social-safety-bd) | Web / Public Safety |
+| 🩸 [Blood Donation Platform](https://github.com/Mausd34/blood-donation-platform) | Django / Web App |
+| 📦 [Inventory POS System](https://github.com/Mausd34/inventory-pos-system) | Business Software |
+| 🚗 [Car Price Prediction](https://github.com/Mausd34/Car-price-prediction-) | Machine Learning |
+| 👤 [Face Detection System](https://github.com/Mausd34/face_detection_system) | Computer Vision |
+| 🏠 [AITC Property & BPO](https://github.com/Mausd34/aitc-property-bpo-management-group-project-) | Django / React |
+| 🛡️ [Social Safety BD Network](https://github.com/Mausd34/soicalSafetybdnet) | Web Platform |
+| 📰 [IUBAT News Paper](https://github.com/Mausd34/iubatnewsPaper) | Web Application |
+| 🎙️ [Tonu AI](https://github.com/Mausd34/tonu) | Python / Voice Assistant |
+| 🐍 [Python 101](https://github.com/Mausd34/python101) | Python Learning |
+
+---
+
 ## ◈ MISSION CONTROL
 
 | SIGNAL | CURRENT DIRECTIVE |
