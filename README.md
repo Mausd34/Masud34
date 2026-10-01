@@ -1,26 +1,31 @@
-# Masud Rana
+<div align="center">
 
-### Computer Science & Engineering Student · Python Developer · AI/ML Researcher
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Masud%20Rana&fontSize=52&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<p align="left">
+<a href="https://github.com/Mausd34">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Python+Developer;AI%2FML+%7C+Data+Science+Enthusiast;Django+%7C+REST+API+Developer;Exploring+LLM+%26+AI+Agent+Security;Building+%7C+Learning+%7C+Researching" alt="Typing SVG" />
+</a>
+
+<p>
   <a href="https://github.com/Mausd34"><img src="https://img.shields.io/badge/GitHub-Mausd34-181717?style=flat-square&logo=github" /></a>
   <a href="mailto:masudrana481531@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-I build practical software and explore **AI/ML, Data Science, NLP, and LLM Security**.  
-Currently focused on strengthening my engineering skills, building production-oriented projects, and developing my first research publication.
+</div>
 
-## About Me
+## 👨‍💻 About Me
+
+I build practical software and explore **AI/ML, Data Science, NLP, and LLM Security**.
 
 - 🎓 CSE student at **IUBAT**
 - 🐍 Building with **Python, Django & REST APIs**
 - 🤖 Exploring **Machine Learning, NLP & AI applications**
-- 🔐 Research interest: **LLM Security & AI Agent Security**
+- 🔐 Interested in **LLM Security & AI Agent Security**
 - 📊 Interested in **Data Science and applied ML**
-- 🌱 Learning through projects, research, and open-source work
-- 🤝 Open to internships, collaborations, and interesting technical projects
+- 📚 Learning through projects, research, and open source
+- 🤝 Open to internships, collaborations, and technical projects
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -37,28 +42,28 @@ Currently focused on strengthening my engineering skills, building production-or
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Focus |
 |---|---|
-| **AI Resume Analyzer** | AI-assisted resume analysis and career insights |
-| **Property & BPO Management** | Django + React workflow management platform |
-| **Fraud Detection System** | Machine-learning based fraud detection |
-| **Social Safety BD** | Bangladesh-focused public safety information platform |
-| **Blood Donation Platform** | Donor and blood-request management concept |
+| 🤖 **AI Resume Analyzer** | AI-assisted resume analysis and career insights |
+| 🏢 **Property & BPO Management** | Django + React workflow management platform |
+| 🛡️ **Fraud Detection System** | Machine-learning based fraud detection |
+| 🌐 **Social Safety BD** | Bangladesh-focused public safety information platform |
+| 🩸 **Blood Donation Platform** | Donor and blood-request management concept |
 
-## Research Interests
+## 🔬 Research Interests
 
 **LLM Security · Indirect Prompt Injection · Cross-Script Prompt Injection · AI Agent Security · Machine Learning · NLP · Data Science**
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mausd34&show_icons=true&hide_border=true&rank_icon=github" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mausd34&layout=compact&hide_border=true" height="165" />
 </p>
 
-## Current Focus
+## 🎯 Current Focus
 
 - Building production-quality **Python/Django** applications
 - Strengthening **AI/ML & Data Science** fundamentals
@@ -66,15 +71,17 @@ Currently focused on strengthening my engineering skills, building production-or
 - Learning **LLM and AI Agent Security**
 - Contributing to **open source**
 
-## Connect
+## 📫 Connect
 
 <p>
   <a href="https://github.com/Mausd34">GitHub</a> ·
   <a href="mailto:masudrana481531@gmail.com">Email</a>
 </p>
 
----
+<div align="center">
 
-<p align="center">
-  <i>Build. Learn. Research. Repeat.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<i>Build. Learn. Research. Repeat.</i>
+
+</div>
