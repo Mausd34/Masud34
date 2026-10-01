@@ -1,72 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Masud%20Rana&fontSize=52&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=MASUD%20RANA&fontSize=58&fontAlignY=38&animation=fadeIn&color=0:0f2027,50:203a43,100:00ff88&fontColor=ffffff" width="100%"/>
 
-<a href="https://github.com/Mausd34">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Python+Developer;AI%2FML+%7C+Data+Science+Enthusiast;Django+%7C+REST+API+Developer;Exploring+LLM+%26+AI+Agent+Security;Building+%7C+Learning+%7C+Researching" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=AI%2FML+%7C+PYTHON+%7C+LLM+SECURITY;CSE+STUDENT+%7C+DJANGO+DEVELOPER;BUILDING+AI+SYSTEMS+%26+SECURITY+RESEARCH;%3E%3E+INITIALIZING+MASUD_RANA.exe...;%3E%3E+SYSTEM+ONLINE+%7C+KEEP+BUILDING" alt="Cyber AI typing animation"/>
 
-<p>
-  <a href="https://github.com/Mausd34"><img src="https://img.shields.io/badge/GitHub-Mausd34-181717?style=flat-square&logo=github" /></a>
-  <a href="mailto:masudrana481531@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/%3E%20SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=071a12" />
+<img src="https://img.shields.io/badge/ROLE-AI%20%26%20PYTHON-00d9ff?style=for-the-badge&labelColor=07131a" />
+<img src="https://img.shields.io/badge/FOCUS-LLM%20SECURITY-ff00cc?style=for-the-badge&labelColor=1a0717" />
+
+<br><br>
+
+<a href="https://github.com/Mausd34"><img src="https://img.shields.io/badge/GitHub-Mausd34-00ff88?style=flat-square&logo=github&logoColor=white&labelColor=111111"/></a>
+<a href="mailto:masudrana481531@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT-00d9ff?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"/></a>
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-I build practical software and explore **AI/ML, Data Science, NLP, and LLM Security**.
+## 🧠 AI CORE // PROFILE
 
-- 🎓 CSE student at **IUBAT**
-- 🐍 Building with **Python, Django & REST APIs**
-- 🤖 Exploring **Machine Learning, NLP & AI applications**
-- 🔐 Interested in **LLM Security & AI Agent Security**
-- 📊 Interested in **Data Science and applied ML**
-- 📚 Learning through projects, research, and open source
-- 🤝 Open to internships, collaborations, and technical projects
+> `STATUS: ONLINE`  
+> `IDENTITY: MASUD_RANA`  
+> `MODE: BUILD → LEARN → RESEARCH`
 
-## 🛠️ Tech Stack
+I am a **CSE student and Python developer** exploring the intersection of **AI/ML, Data Science and LLM Security**. I like turning ideas into working software, experimenting with machine learning, and learning how AI agents can be made safer.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+### ⚡ Current Mission
+
+- 🤖 Build practical **AI/ML applications**
+- 🐍 Develop scalable **Python/Django + REST API** systems
+- 🔐 Research **LLM & AI Agent Security**
+- 🧪 Explore **Indirect & Cross-Script Prompt Injection**
+- 📊 Strengthen **Data Science / ML** skills
+- 🌐 Grow through **open source + real projects**
+
+---
+
+## 🛰️ TECH MATRIX
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,c,cs,sql,git,github,html,css,js,react,numpy,pandas,sklearn&perline=8" />
 </p>
 
-## 🚀 Featured Projects
+---
 
-| Project | Focus |
+## 🤖 AI LAB // PROJECTS
+
+| SYSTEM | DESCRIPTION |
 |---|---|
-| 🤖 **AI Resume Analyzer** | AI-assisted resume analysis and career insights |
-| 🏢 **Property & BPO Management** | Django + React workflow management platform |
+| 🧠 **AI Resume Analyzer** | AI-assisted resume analysis and career insights |
 | 🛡️ **Fraud Detection System** | Machine-learning based fraud detection |
+| 🏢 **Property & BPO Management** | Django + React workflow management platform |
 | 🌐 **Social Safety BD** | Bangladesh-focused public safety information platform |
-| 🩸 **Blood Donation Platform** | Donor and blood-request management concept |
+| 🩸 **Blood Donation Platform** | Donor and blood-request management system |
 
-## 🔬 Research Interests
+---
 
-**LLM Security · Indirect Prompt Injection · Cross-Script Prompt Injection · AI Agent Security · Machine Learning · NLP · Data Science**
+## 🔐 CYBER RESEARCH // LLM SECURITY
 
-## 📊 GitHub Activity
+```text
+┌──────────────────────────────────────────────────────┐
+│                  MASUD_RANA // LAB                   │
+├──────────────────────────────────────────────────────┤
+│  [01] LLM Security                                   │
+│  [02] Indirect Prompt Injection                      │
+│  [03] Cross-Script Prompt Injection                  │
+│  [04] AI Agent Security                               │
+│  [05] Machine Learning / NLP                          │
+└──────────────────────────────────────────────────────┘
+```
+
+**Research direction:** understanding how malicious instructions can travel through external content and affect LLM-based agents, with a focus on controlled, reproducible and safe experiments.
+
+---
+
+## 📡 SYSTEM ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mausd34&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mausd34&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mausd34&show_icons=true&hide_border=true&rank_icon=github&title_color=00ff88&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mausd34&layout=compact&hide_border=true&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" height="170" />
 </p>
 
-## 🐍 Masud Rana · Contribution Journey
+---
+
+## 🐍 MASUD RANA // CONTRIBUTION PROTOCOL
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mausd34/Masud34/main/assets/masud-rana-snake.svg" alt="Masud Rana animated snake" width="900" />
+  <img src="https://raw.githubusercontent.com/Mausd34/Masud34/main/assets/masud-rana-snake.svg" alt="Masud Rana cyber contribution animation" width="900" />
 </p>
 
 <p align="center">
@@ -77,31 +99,34 @@ I build practical software and explore **AI/ML, Data Science, NLP, and LLM Secur
   </picture>
 </p>
 
-## 🎯 Current Focus
+---
 
-- Building production-quality **Python/Django** applications
-- Strengthening **AI/ML & Data Science** fundamentals
-- Working toward my **first research paper**
-- Learning **LLM and AI Agent Security**
-- Contributing to **open source**
+## 🎯 ACTIVE DIRECTIVES
 
-## 👀 Profile Visitors
+```text
+[████████████████████] Python / Django
+[██████████████████░░] AI / Machine Learning
+[████████████████░░░░] Data Science
+[███████████████░░░░░] LLM Security
+[████████████░░░░░░░░] Research
+```
+
+> **BUILD. BREAK. LEARN. SECURE. REPEAT.**
+
+---
+
+## 👁️ SIGNAL // PROFILE VISITORS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mausd34&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile views" />
-</p>
-
-## 📫 Connect
-
-<p>
-  <a href="https://github.com/Mausd34">GitHub</a> ·
-  <a href="mailto:masudrana481531@gmail.com">Email</a>
+<img src="https://komarev.com/ghpvc/?username=Mausd34&label=PROFILE%20SIGNALS&color=00ff88&style=for-the-badge&labelColor=0d1117" alt="Profile views"/>
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" width="100%"/>
+### `SYSTEM MESSAGE: KEEP BUILDING.`
 
-<i>Build. Learn. Research. Repeat.</i>
+<a href="https://github.com/Mausd34">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=fadeIn&color=0:00ff88,50:00d9ff,100:ff00cc" width="100%"/>
+</a>
 
 </div>
