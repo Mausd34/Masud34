@@ -63,7 +63,11 @@ I build practical software and explore **AI/ML, Data Science, NLP, and LLM Secur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mausd34&layout=compact&hide_border=true" height="165" />
 </p>
 
-## 🐍 Contribution Journey
+## 🐍 Masud Rana · Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mausd34/Masud34/main/assets/masud-rana-snake.svg" alt="Masud Rana animated snake" width="900" />
+</p>
 
 <p align="center">
   <picture>
